@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/curs_web_2/static/css/main.bdb9bc07.css",
+    "main.js": "/curs_web_2/static/js/main.32f77e08.js",
+    "static/js/453.d0970a25.chunk.js": "/curs_web_2/static/js/453.d0970a25.chunk.js",
+    "static/media/geometr.jpg": "/curs_web_2/static/media/geometr.3a38ec703c5814fcb8f5.jpg",
+    "index.html": "/curs_web_2/index.html",
+    "main.bdb9bc07.css.map": "/curs_web_2/static/css/main.bdb9bc07.css.map",
+    "main.32f77e08.js.map": "/curs_web_2/static/js/main.32f77e08.js.map",
+    "453.d0970a25.chunk.js.map": "/curs_web_2/static/js/453.d0970a25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb9bc07.css",
+    "static/js/main.32f77e08.js"
+  ]
+}
